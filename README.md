@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vue2-vue3-TS_project
-=======
 # project-vue
 
 ## Project setup
@@ -25,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 420cc98 (init)
