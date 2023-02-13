@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>你好</h1>
-    <el-button type="success">按钮1</el-button>
+    <el-button type="success">主页按钮1</el-button>
   </div>
 </template>
 
